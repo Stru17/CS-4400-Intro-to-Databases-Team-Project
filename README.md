@@ -1,5 +1,5 @@
-# Group 21's 4400 Final Project
-This is Group 21's Phase 4 Project. Group 21 composes of Abhiram Bharatham, Carson Anderson, Sebastian Jankowski, Sean Ru, and Richard Zhang.
+# Group 21's CS 4400 Final Project
+CS 4400 is an Intro to Databases class at Georgia Tech, and this repo consists of my team's final project.
 
 ## Setup
 ### Prerequistes 
@@ -66,7 +66,7 @@ The web browser renders HTML, CSS, and Javascript files that display the UI of t
 For example, the Javascript may make a request for the `display_owner_view` data to the Flask server, in which the Flask server executes the `SELECT * FROM display_owner_vew` query. The Flask server takes the results from this query and sends the results in an HTTP response to the Javascript code, which would fill the HTML with the data from the query.
 
 ## Group Tasks
-Here is how work was divided among Group 21:
+We had 5 members on the team. Here is how work was divided among Group 21:
 
 Abhiram 
 - Initial Flask Setup
