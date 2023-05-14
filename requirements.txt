@@ -1,0 +1,14 @@
+Click==7.0
+Flask==1.1.1
+Flask-Cors==3.0.10
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+mysql-connector-python==8.0.31
+protobuf==3.20.1
+PyMySQL==0.9.3
+PyMysqlDB==0.0.2
+python-dotenv==0.21.0
+six==1.16.0
+Werkzeug==0.15.5
+wincertstore==0.2
